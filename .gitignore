@@ -1,0 +1,6 @@
+data/*
+logs/*
+checkpoints/*
+results/*
+*.pyc
+*.zip
